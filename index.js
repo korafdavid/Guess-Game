@@ -2,7 +2,6 @@ console.log("Welcome to Guess Game. press q to quit");
 startGame(2)
 
 
-
 function startGame( range) {
 const username = prompt('Please type your username');
 var point = 0;
